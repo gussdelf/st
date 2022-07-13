@@ -165,7 +165,7 @@ unsigned int defaultrcs = 257;
  * 7: Blinking st cursor
  * 8: Steady st cursor
  */
-static unsigned int cursorshape = 1;
+static unsigned int cursorshape = 3;
 
 /*
  * Default columns and rows numbers
